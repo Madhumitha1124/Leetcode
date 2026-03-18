@@ -32,6 +32,7 @@ leetcodeanswer
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhumitha1124/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Madhumitha1124/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -39,6 +40,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -61,4 +63,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhumitha1124/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
