@@ -6,10 +6,12 @@ leetcodeanswer
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Madhumitha1124/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0901-online-stock-span](https://github.com/Madhumitha1124/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Madhumitha1124/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0901-online-stock-span](https://github.com/Madhumitha1124/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -39,4 +41,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Madhumitha1124/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
