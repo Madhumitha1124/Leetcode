@@ -39,6 +39,7 @@ leetcodeanswer
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +91,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
