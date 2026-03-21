@@ -35,6 +35,7 @@ leetcodeanswer
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Madhumitha1124/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -85,4 +86,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
