@@ -38,6 +38,7 @@ leetcodeanswer
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/Madhumitha1124/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhumitha1124/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0198-house-robber](https://github.com/Madhumitha1124/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -170,4 +171,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Madhumitha1124/Leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
