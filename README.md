@@ -53,6 +53,7 @@ leetcodeanswer
 | [1929-concatenation-of-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ leetcodeanswer
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ leetcodeanswer
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Madhumitha1124/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +105,7 @@ leetcodeanswer
 | [0032-longest-valid-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
