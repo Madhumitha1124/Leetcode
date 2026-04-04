@@ -1,6 +1,6 @@
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
-        Arrays.sort(nums);
+        //Arrays.sort(nums);
         ArrayList<Integer> even=new ArrayList<>();
         ArrayList<Integer> odd=new ArrayList<>();
         ArrayList<Integer> ans=new ArrayList<>();
