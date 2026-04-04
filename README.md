@@ -46,6 +46,7 @@ leetcodeanswer
 | [0560-subarray-sum-equals-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Madhumitha1124/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madhumitha1124/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -70,6 +71,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Madhumitha1124/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@ leetcodeanswer
 | [0160-intersection-of-two-linked-lists](https://github.com/Madhumitha1124/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Madhumitha1124/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Recursion
