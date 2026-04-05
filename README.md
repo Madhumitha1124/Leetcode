@@ -55,6 +55,7 @@ leetcodeanswer
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Madhumitha1124/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Madhumitha1124/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Madhumitha1124/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Madhumitha1124/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -77,6 +78,7 @@ leetcodeanswer
 | [0905-sort-array-by-parity](https://github.com/Madhumitha1124/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Madhumitha1124/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Madhumitha1124/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -207,4 +209,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Madhumitha1124/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 <!---LeetCode Topics End-->
