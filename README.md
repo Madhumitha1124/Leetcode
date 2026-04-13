@@ -6,6 +6,7 @@ leetcodeanswer
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhumitha1124/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Madhumitha1124/Leetcode/tree/main/0155-min-stack/) | Medium |
@@ -112,6 +113,7 @@ leetcodeanswer
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
