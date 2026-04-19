@@ -64,6 +64,7 @@ leetcodeanswer
 | [2404-most-frequent-even-element](https://github.com/Madhumitha1124/Leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
@@ -224,4 +225,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Madhumitha1124/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 <!---LeetCode Topics End-->
