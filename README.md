@@ -96,6 +96,7 @@ leetcodeanswer
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Madhumitha1124/Leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@ leetcodeanswer
 | [0657-robot-return-to-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
