@@ -45,6 +45,7 @@ leetcodeanswer
 | [0198-house-robber](https://github.com/Madhumitha1124/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Madhumitha1124/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0506-relative-ranks](https://github.com/Madhumitha1124/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -86,6 +87,7 @@ leetcodeanswer
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0506-relative-ranks](https://github.com/Madhumitha1124/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Madhumitha1124/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -207,6 +209,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Madhumitha1124/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0506-relative-ranks](https://github.com/Madhumitha1124/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
