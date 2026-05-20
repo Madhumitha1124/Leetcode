@@ -53,6 +53,7 @@ leetcodeanswer
 | [0922-sort-array-by-parity-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madhumitha1124/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madhumitha1124/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Madhumitha1124/Leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
@@ -128,6 +129,7 @@ leetcodeanswer
 | [0371-sum-of-two-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madhumitha1124/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
