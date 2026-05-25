@@ -117,6 +117,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Madhumitha1124/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Madhumitha1124/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0649-dota2-senate](https://github.com/Madhumitha1124/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Madhumitha1124/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Madhumitha1124/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Madhumitha1124/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -153,6 +154,7 @@ leetcodeanswer
 | [0022-generate-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0649-dota2-senate](https://github.com/Madhumitha1124/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -259,6 +261,7 @@ leetcodeanswer
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0649-dota2-senate](https://github.com/Madhumitha1124/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
