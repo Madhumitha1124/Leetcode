@@ -51,6 +51,7 @@ leetcodeanswer
 | [0852-peak-index-in-a-mountain-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Madhumitha1124/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1046-last-stone-weight](https://github.com/Madhumitha1124/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madhumitha1124/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -218,6 +219,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Madhumitha1124/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0506-relative-ranks](https://github.com/Madhumitha1124/Leetcode/tree/main/0506-relative-ranks/) | Easy |
+| [1046-last-stone-weight](https://github.com/Madhumitha1124/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
