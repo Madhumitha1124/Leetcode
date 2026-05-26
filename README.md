@@ -94,6 +94,7 @@ leetcodeanswer
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Madhumitha1124/Leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +162,7 @@ leetcodeanswer
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
