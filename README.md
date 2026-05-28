@@ -248,6 +248,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/Madhumitha1124/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Madhumitha1124/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Backtracking
@@ -282,6 +283,7 @@ leetcodeanswer
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Madhumitha1124/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/Madhumitha1124/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Madhumitha1124/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -289,10 +291,12 @@ leetcodeanswer
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Madhumitha1124/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/Madhumitha1124/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Madhumitha1124/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Madhumitha1124/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Madhumitha1124/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 <!---LeetCode Topics End-->
