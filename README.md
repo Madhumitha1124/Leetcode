@@ -144,6 +144,7 @@ leetcodeanswer
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Madhumitha1124/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Madhumitha1124/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhumitha1124/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -176,6 +177,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0062-unique-paths](https://github.com/Madhumitha1124/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Madhumitha1124/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Madhumitha1124/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Madhumitha1124/Leetcode/tree/main/0322-coin-change/) | Medium |
@@ -332,4 +334,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Madhumitha1124/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Madhumitha1124/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
