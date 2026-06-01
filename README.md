@@ -74,6 +74,7 @@ leetcodeanswer
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Madhumitha1124/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Madhumitha1124/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhumitha1124/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Madhumitha1124/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/Madhumitha1124/Leetcode/tree/main/2239-find-closest-number-to-zero/) | Easy |
@@ -113,6 +114,7 @@ leetcodeanswer
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhumitha1124/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Madhumitha1124/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhumitha1124/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Madhumitha1124/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [3024-type-of-triangle](https://github.com/Madhumitha1124/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 ## Counting Sort
@@ -292,6 +294,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/Madhumitha1124/Leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhumitha1124/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
