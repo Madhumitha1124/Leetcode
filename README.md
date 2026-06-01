@@ -46,6 +46,7 @@ leetcodeanswer
 | [0198-house-robber](https://github.com/Madhumitha1124/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Madhumitha1124/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Madhumitha1124/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Madhumitha1124/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -181,6 +182,7 @@ leetcodeanswer
 | [0062-unique-paths](https://github.com/Madhumitha1124/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Madhumitha1124/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Madhumitha1124/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Madhumitha1124/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## Bit Manipulation
@@ -190,6 +192,7 @@ leetcodeanswer
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
