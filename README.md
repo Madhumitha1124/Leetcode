@@ -172,6 +172,7 @@ leetcodeanswer
 | [0205-isomorphic-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0649-dota2-senate](https://github.com/Madhumitha1124/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -187,6 +188,7 @@ leetcodeanswer
 | [0300-longest-increasing-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Madhumitha1124/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
