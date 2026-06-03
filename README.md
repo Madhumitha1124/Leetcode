@@ -177,6 +177,7 @@ leetcodeanswer
 | [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
