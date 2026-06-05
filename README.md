@@ -15,6 +15,7 @@ leetcodeanswer
 | [0232-implement-queue-using-stacks](https://github.com/Madhumitha1124/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0901-online-stock-span](https://github.com/Madhumitha1124/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Madhumitha1124/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Madhumitha1124/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Design
@@ -32,6 +33,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Madhumitha1124/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@ leetcodeanswer
 | [0905-sort-array-by-parity](https://github.com/Madhumitha1124/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Madhumitha1124/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/Madhumitha1124/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
@@ -239,6 +242,7 @@ leetcodeanswer
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Madhumitha1124/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
