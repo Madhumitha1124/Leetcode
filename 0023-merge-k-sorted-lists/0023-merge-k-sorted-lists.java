@@ -9,6 +9,7 @@
  * }
  */
 class Solution {
+    
     public ListNode mergeKLists(ListNode[] lists) {
        PriorityQueue<Integer> min=new PriorityQueue<>();
        for(int i=0;i<lists.length;i++){
