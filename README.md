@@ -167,6 +167,7 @@ leetcodeanswer
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhumitha1124/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Madhumitha1124/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0507-perfect-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madhumitha1124/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
