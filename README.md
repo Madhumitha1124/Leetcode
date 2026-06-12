@@ -403,6 +403,7 @@ leetcodeanswer
 | [0595-big-countries](https://github.com/Madhumitha1124/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Madhumitha1124/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/Madhumitha1124/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Madhumitha1124/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Madhumitha1124/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
