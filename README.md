@@ -395,5 +395,6 @@ leetcodeanswer
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0626-exchange-seats](https://github.com/Madhumitha1124/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Madhumitha1124/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
