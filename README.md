@@ -405,5 +405,6 @@ leetcodeanswer
 | [0619-biggest-single-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Madhumitha1124/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Madhumitha1124/Leetcode/tree/main/0626-exchange-seats/) | Medium |
+| [1045-customers-who-bought-all-products](https://github.com/Madhumitha1124/Leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Madhumitha1124/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
