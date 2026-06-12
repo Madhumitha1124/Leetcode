@@ -392,4 +392,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Madhumitha1124/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Madhumitha1124/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
