@@ -411,6 +411,7 @@ leetcodeanswer
 | [1045-customers-who-bought-all-products](https://github.com/Madhumitha1124/Leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Madhumitha1124/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Madhumitha1124/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/Madhumitha1124/Leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1148-article-views-i](https://github.com/Madhumitha1124/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Madhumitha1124/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Madhumitha1124/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
