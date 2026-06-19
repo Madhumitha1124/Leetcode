@@ -79,6 +79,7 @@ leetcodeanswer
 | [1472-design-browser-history](https://github.com/Madhumitha1124/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhumitha1124/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Madhumitha1124/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Madhumitha1124/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Madhumitha1124/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Madhumitha1124/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -181,6 +182,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Madhumitha1124/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Madhumitha1124/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## String
 | Problem Name | Difficulty |
