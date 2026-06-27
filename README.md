@@ -184,6 +184,7 @@ leetcodeanswer
 | [1903-largest-odd-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3024-type-of-triangle](https://github.com/Madhumitha1124/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
+| [3099-harshad-number](https://github.com/Madhumitha1124/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
