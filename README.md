@@ -48,6 +48,7 @@ leetcodeanswer
 | [0001-two-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Madhumitha1124/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/Madhumitha1124/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0054-spiral-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhumitha1124/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -165,6 +166,7 @@ leetcodeanswer
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Madhumitha1124/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -342,6 +344,7 @@ leetcodeanswer
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Madhumitha1124/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
