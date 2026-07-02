@@ -46,6 +46,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/Madhumitha1124/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Madhumitha1124/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/Madhumitha1124/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -279,6 +280,7 @@ leetcodeanswer
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Madhumitha1124/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Madhumitha1124/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
