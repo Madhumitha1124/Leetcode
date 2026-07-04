@@ -212,6 +212,7 @@ leetcodeanswer
 | [0205-isomorphic-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0392-is-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Madhumitha1124/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/Madhumitha1124/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0649-dota2-senate](https://github.com/Madhumitha1124/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
