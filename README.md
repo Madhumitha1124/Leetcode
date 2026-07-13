@@ -102,6 +102,7 @@ leetcodeanswer
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhumitha1124/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Madhumitha1124/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Madhumitha1124/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Madhumitha1124/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/Madhumitha1124/Leetcode/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Madhumitha1124/Leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -242,6 +243,7 @@ leetcodeanswer
 | [1903-largest-odd-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Madhumitha1124/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Madhumitha1124/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -505,4 +507,5 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Madhumitha1124/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Madhumitha1124/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 <!---LeetCode Topics End-->
