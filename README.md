@@ -50,6 +50,7 @@ leetcodeanswer
 | [0027-remove-element](https://github.com/Madhumitha1124/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Madhumitha1124/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/Madhumitha1124/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Madhumitha1124/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0055-jump-game/) | Medium |
@@ -193,6 +194,7 @@ leetcodeanswer
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Madhumitha1124/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Madhumitha1124/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Madhumitha1124/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhumitha1124/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -381,6 +383,7 @@ leetcodeanswer
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Madhumitha1124/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Madhumitha1124/Leetcode/tree/main/0200-number-of-islands/) | Medium |
