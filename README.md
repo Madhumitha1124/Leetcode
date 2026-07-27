@@ -89,6 +89,7 @@ leetcodeanswer
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madhumitha1124/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Madhumitha1124/Leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Madhumitha1124/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhumitha1124/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -150,6 +151,7 @@ leetcodeanswer
 | [0922-sort-array-by-parity-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Madhumitha1124/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhumitha1124/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Madhumitha1124/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Madhumitha1124/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -365,6 +367,7 @@ leetcodeanswer
 | [0239-sliding-window-maximum](https://github.com/Madhumitha1124/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0506-relative-ranks](https://github.com/Madhumitha1124/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/Madhumitha1124/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
