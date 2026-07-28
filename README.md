@@ -159,6 +159,7 @@ leetcodeanswer
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhumitha1124/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Madhumitha1124/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [3024-type-of-triangle](https://github.com/Madhumitha1124/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +170,7 @@ leetcodeanswer
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Madhumitha1124/Leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -258,6 +260,7 @@ leetcodeanswer
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3856-trim-trailing-vowels](https://github.com/Madhumitha1124/Leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
