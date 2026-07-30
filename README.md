@@ -19,6 +19,7 @@ leetcodeanswer
 | [1019-next-greater-node-in-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Madhumitha1124/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Madhumitha1124/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Madhumitha1124/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@ leetcodeanswer
 | [1929-concatenation-of-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Madhumitha1124/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Madhumitha1124/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Madhumitha1124/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Math
@@ -258,6 +260,7 @@ leetcodeanswer
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Madhumitha1124/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Madhumitha1124/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
