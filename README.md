@@ -73,6 +73,7 @@ leetcodeanswer
 | [0322-coin-change](https://github.com/Madhumitha1124/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Madhumitha1124/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/Madhumitha1124/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0506-relative-ranks](https://github.com/Madhumitha1124/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -208,6 +209,7 @@ leetcodeanswer
 | [0189-rotate-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Madhumitha1124/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0486-predict-the-winner](https://github.com/Madhumitha1124/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -283,6 +285,7 @@ leetcodeanswer
 | [0300-longest-increasing-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Madhumitha1124/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0486-predict-the-winner](https://github.com/Madhumitha1124/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Bit Manipulation
@@ -356,6 +359,7 @@ leetcodeanswer
 | [0203-remove-linked-list-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/Madhumitha1124/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -537,4 +541,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Madhumitha1124/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Madhumitha1124/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
