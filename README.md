@@ -80,6 +80,7 @@ leetcodeanswer
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0877-stone-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Madhumitha1124/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Madhumitha1124/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -213,6 +214,7 @@ leetcodeanswer
 | [0507-perfect-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madhumitha1124/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
@@ -287,6 +289,7 @@ leetcodeanswer
 | [0392-is-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/Madhumitha1124/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0877-stone-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -545,4 +548,5 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Madhumitha1124/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
