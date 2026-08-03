@@ -61,6 +61,7 @@ leetcodeanswer
 | [0088-merge-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhumitha1124/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/Madhumitha1124/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhumitha1124/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Madhumitha1124/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -394,6 +395,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0130-surrounded-regions](https://github.com/Madhumitha1124/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Madhumitha1124/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Madhumitha1124/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Madhumitha1124/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -410,6 +412,7 @@ leetcodeanswer
 | [0048-rotate-image](https://github.com/Madhumitha1124/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0130-surrounded-regions](https://github.com/Madhumitha1124/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Madhumitha1124/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Number Theory
@@ -463,6 +466,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Madhumitha1124/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/Madhumitha1124/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Madhumitha1124/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Madhumitha1124/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/Madhumitha1124/Leetcode/tree/main/0322-coin-change/) | Medium |
@@ -479,6 +483,7 @@ leetcodeanswer
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Madhumitha1124/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Madhumitha1124/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
