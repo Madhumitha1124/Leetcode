@@ -79,6 +79,7 @@ leetcodeanswer
 | [0518-coin-change-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0704-binary-search](https://github.com/Madhumitha1124/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -305,6 +306,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/Madhumitha1124/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Enumeration
