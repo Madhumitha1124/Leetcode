@@ -231,6 +231,7 @@ leetcodeanswer
 | [3024-type-of-triangle](https://github.com/Madhumitha1124/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/Madhumitha1124/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -319,6 +320,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
