@@ -118,6 +118,7 @@ leetcodeanswer
 | [2053-kth-distinct-string-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Madhumitha1124/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Madhumitha1124/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhumitha1124/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Madhumitha1124/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -499,6 +500,7 @@ leetcodeanswer
 | [1833-maximum-ice-cream-bars](https://github.com/Madhumitha1124/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Madhumitha1124/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhumitha1124/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Quickselect
