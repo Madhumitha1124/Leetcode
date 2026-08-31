@@ -296,6 +296,7 @@ leetcodeanswer
 | [0649-dota2-senate](https://github.com/Madhumitha1124/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Madhumitha1124/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0824-goat-latin](https://github.com/Madhumitha1124/Leetcode/tree/main/0824-goat-latin/) | Easy |
 | [0859-buddy-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Madhumitha1124/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
