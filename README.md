@@ -85,6 +85,7 @@ leetcodeanswer
 | [0200-number-of-islands](https://github.com/Madhumitha1124/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Madhumitha1124/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Madhumitha1124/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -169,6 +170,7 @@ leetcodeanswer
 | [0146-lru-cache](https://github.com/Madhumitha1124/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Madhumitha1124/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0229-majority-element-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Madhumitha1124/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Madhumitha1124/Leetcode/tree/main/0290-word-pattern/) | Easy |
@@ -202,6 +204,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Madhumitha1124/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0506-relative-ranks](https://github.com/Madhumitha1124/Leetcode/tree/main/0506-relative-ranks/) | Easy |
@@ -226,6 +229,7 @@ leetcodeanswer
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/Madhumitha1124/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Madhumitha1124/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Madhumitha1124/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -705,4 +709,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1032-stream-of-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1032-stream-of-characters/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
