@@ -134,6 +134,7 @@ leetcodeanswer
 | [1929-concatenation-of-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Madhumitha1124/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Madhumitha1124/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Madhumitha1124/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Madhumitha1124/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -194,6 +195,7 @@ leetcodeanswer
 | [1496-path-crossing](https://github.com/Madhumitha1124/Leetcode/tree/main/1496-path-crossing/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1782-count-pairs-of-nodes](https://github.com/Madhumitha1124/Leetcode/tree/main/1782-count-pairs-of-nodes/) | Hard |
+| [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Madhumitha1124/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
@@ -248,6 +250,7 @@ leetcodeanswer
 | [1684-count-the-number-of-consistent-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1782-count-pairs-of-nodes](https://github.com/Madhumitha1124/Leetcode/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Madhumitha1124/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Madhumitha1124/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
@@ -302,6 +305,7 @@ leetcodeanswer
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madhumitha1124/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3024-type-of-triangle](https://github.com/Madhumitha1124/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/Madhumitha1124/Leetcode/tree/main/3099-harshad-number/) | Easy |
@@ -399,6 +403,7 @@ leetcodeanswer
 | [0518-coin-change-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,6 +411,7 @@ leetcodeanswer
 | [0371-sum-of-two-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Madhumitha1124/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -552,6 +558,7 @@ leetcodeanswer
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -735,4 +742,12 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 <!---LeetCode Topics End-->
