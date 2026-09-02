@@ -32,6 +32,7 @@ leetcodeanswer
 | [0707-design-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/Madhumitha1124/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Madhumitha1124/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1032-stream-of-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [1472-design-browser-history](https://github.com/Madhumitha1124/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -45,6 +46,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Madhumitha1124/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Madhumitha1124/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1032-stream-of-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [1472-design-browser-history](https://github.com/Madhumitha1124/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -107,6 +109,7 @@ leetcodeanswer
 | [0922-sort-array-by-parity-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Madhumitha1124/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1032-stream-of-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [1046-last-stone-weight](https://github.com/Madhumitha1124/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Madhumitha1124/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -330,6 +333,7 @@ leetcodeanswer
 | [0824-goat-latin](https://github.com/Madhumitha1124/Leetcode/tree/main/0824-goat-latin/) | Easy |
 | [0859-buddy-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Madhumitha1124/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1032-stream-of-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1154-day-of-the-year](https://github.com/Madhumitha1124/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Madhumitha1124/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -667,6 +671,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Madhumitha1124/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0140-word-break-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [1032-stream-of-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1032-stream-of-characters/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -696,4 +701,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0391-perfect-rectangle](https://github.com/Madhumitha1124/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
+## Aho–Corasick Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1032-stream-of-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1032-stream-of-characters/) | Hard |
 <!---LeetCode Topics End-->
