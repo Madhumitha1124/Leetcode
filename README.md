@@ -119,6 +119,7 @@ leetcodeanswer
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madhumitha1124/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madhumitha1124/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Madhumitha1124/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Madhumitha1124/Leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -403,6 +404,7 @@ leetcodeanswer
 | [0518-coin-change-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Madhumitha1124/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -410,6 +412,7 @@ leetcodeanswer
 | [0268-missing-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Madhumitha1124/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Madhumitha1124/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 ## Binary Search
@@ -745,9 +748,22 @@ leetcodeanswer
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Madhumitha1124/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Madhumitha1124/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+## Matching (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Madhumitha1124/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+## Perfect Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Madhumitha1124/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 <!---LeetCode Topics End-->
