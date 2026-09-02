@@ -140,6 +140,7 @@ leetcodeanswer
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Madhumitha1124/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +266,7 @@ leetcodeanswer
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
