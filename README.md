@@ -127,6 +127,7 @@ leetcodeanswer
 | [1684-count-the-number-of-consistent-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Madhumitha1124/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Madhumitha1124/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1782-count-pairs-of-nodes](https://github.com/Madhumitha1124/Leetcode/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Madhumitha1124/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Madhumitha1124/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Madhumitha1124/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -192,6 +193,7 @@ leetcodeanswer
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1496-path-crossing](https://github.com/Madhumitha1124/Leetcode/tree/main/1496-path-crossing/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1782-count-pairs-of-nodes](https://github.com/Madhumitha1124/Leetcode/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Madhumitha1124/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
@@ -223,6 +225,7 @@ leetcodeanswer
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhumitha1124/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1782-count-pairs-of-nodes](https://github.com/Madhumitha1124/Leetcode/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Madhumitha1124/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Madhumitha1124/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Madhumitha1124/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -243,6 +246,7 @@ leetcodeanswer
 | [1189-maximum-number-of-balloons](https://github.com/Madhumitha1124/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madhumitha1124/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1782-count-pairs-of-nodes](https://github.com/Madhumitha1124/Leetcode/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Madhumitha1124/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Madhumitha1124/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -417,6 +421,7 @@ leetcodeanswer
 | [0704-binary-search](https://github.com/Madhumitha1124/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Madhumitha1124/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1782-count-pairs-of-nodes](https://github.com/Madhumitha1124/Leetcode/tree/main/1782-count-pairs-of-nodes/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,6 +472,7 @@ leetcodeanswer
 | [0922-sort-array-by-parity-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Madhumitha1124/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Madhumitha1124/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1782-count-pairs-of-nodes](https://github.com/Madhumitha1124/Leetcode/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Madhumitha1124/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -614,6 +620,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Madhumitha1124/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [1782-count-pairs-of-nodes](https://github.com/Madhumitha1124/Leetcode/tree/main/1782-count-pairs-of-nodes/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/Madhumitha1124/Leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
