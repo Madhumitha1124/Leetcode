@@ -69,6 +69,7 @@ leetcodeanswer
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Madhumitha1124/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Madhumitha1124/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhumitha1124/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Madhumitha1124/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
@@ -463,6 +464,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Madhumitha1124/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Madhumitha1124/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Madhumitha1124/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -550,6 +552,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Madhumitha1124/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Madhumitha1124/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Madhumitha1124/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -558,6 +561,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Madhumitha1124/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Madhumitha1124/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Madhumitha1124/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -667,4 +671,8 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Madhumitha1124/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Madhumitha1124/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
