@@ -73,6 +73,7 @@ leetcodeanswer
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhumitha1124/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Madhumitha1124/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0140-word-break-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhumitha1124/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -158,6 +159,7 @@ leetcodeanswer
 | [0037-sudoku-solver](https://github.com/Madhumitha1124/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Madhumitha1124/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Madhumitha1124/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0140-word-break-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Madhumitha1124/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/Madhumitha1124/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Madhumitha1124/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -306,6 +308,7 @@ leetcodeanswer
 | [0044-wildcard-matching](https://github.com/Madhumitha1124/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/Madhumitha1124/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Madhumitha1124/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0140-word-break-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Madhumitha1124/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Madhumitha1124/Leetcode/tree/main/0290-word-pattern/) | Easy |
@@ -359,6 +362,7 @@ leetcodeanswer
 | [0070-climbing-stairs](https://github.com/Madhumitha1124/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhumitha1124/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0140-word-break-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0198-house-robber](https://github.com/Madhumitha1124/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Madhumitha1124/Leetcode/tree/main/0322-coin-change/) | Medium |
@@ -500,6 +504,7 @@ leetcodeanswer
 | [0022-generate-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Madhumitha1124/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Madhumitha1124/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0140-word-break-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -594,6 +599,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Madhumitha1124/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0140-word-break-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -654,6 +660,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Madhumitha1124/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0140-word-break-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
