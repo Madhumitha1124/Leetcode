@@ -55,6 +55,7 @@ leetcodeanswer
 | [0033-search-in-rotated-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Madhumitha1124/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/Madhumitha1124/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Madhumitha1124/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Madhumitha1124/Leetcode/tree/main/0048-rotate-image/) | Medium |
@@ -149,6 +150,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/Madhumitha1124/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Madhumitha1124/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Madhumitha1124/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/Madhumitha1124/Leetcode/tree/main/0146-lru-cache/) | Medium |
@@ -489,10 +491,12 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/Madhumitha1124/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Madhumitha1124/Leetcode/tree/main/0051-n-queens/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Madhumitha1124/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Madhumitha1124/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -646,4 +650,12 @@ leetcodeanswer
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Madhumitha1124/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0877-stone-game/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Madhumitha1124/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Madhumitha1124/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
