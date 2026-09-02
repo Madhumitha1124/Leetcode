@@ -89,6 +89,7 @@ leetcodeanswer
 | [0283-move-zeroes](https://github.com/Madhumitha1124/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Madhumitha1124/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0391-perfect-rectangle](https://github.com/Madhumitha1124/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Madhumitha1124/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Madhumitha1124/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -169,6 +170,7 @@ leetcodeanswer
 | [0268-missing-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Madhumitha1124/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Madhumitha1124/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0391-perfect-rectangle](https://github.com/Madhumitha1124/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/Madhumitha1124/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -268,6 +270,7 @@ leetcodeanswer
 | [0189-rotate-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0391-perfect-rectangle](https://github.com/Madhumitha1124/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Madhumitha1124/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0486-predict-the-winner](https://github.com/Madhumitha1124/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0507-perfect-number/) | Easy |
@@ -685,4 +688,12 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Madhumitha1124/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0391-perfect-rectangle](https://github.com/Madhumitha1124/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0391-perfect-rectangle](https://github.com/Madhumitha1124/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 <!---LeetCode Topics End-->
