@@ -164,6 +164,7 @@ leetcodeanswer
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,6 +329,7 @@ leetcodeanswer
 | [1732-find-the-highest-altitude](https://github.com/Madhumitha1124/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Madhumitha1124/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
