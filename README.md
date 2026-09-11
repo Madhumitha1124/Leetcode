@@ -161,6 +161,7 @@ leetcodeanswer
 | [3024-type-of-triangle](https://github.com/Madhumitha1124/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Madhumitha1124/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -213,6 +214,7 @@ leetcodeanswer
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhumitha1124/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Madhumitha1124/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
@@ -456,6 +458,7 @@ leetcodeanswer
 | [0204-count-primes](https://github.com/Madhumitha1124/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -517,6 +520,7 @@ leetcodeanswer
 | [0206-reverse-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Madhumitha1124/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
