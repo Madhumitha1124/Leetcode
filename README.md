@@ -427,6 +427,7 @@ leetcodeanswer
 | [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Madhumitha1124/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +437,7 @@ leetcodeanswer
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Madhumitha1124/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,6 +461,7 @@ leetcodeanswer
 | [2778-sum-of-squares-of-special-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
