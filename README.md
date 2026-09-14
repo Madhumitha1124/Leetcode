@@ -313,6 +313,7 @@ leetcodeanswer
 | [0507-perfect-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Madhumitha1124/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1154-day-of-the-year](https://github.com/Madhumitha1124/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -766,6 +767,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0391-perfect-rectangle](https://github.com/Madhumitha1124/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
+| [0836-rectangle-overlap](https://github.com/Madhumitha1124/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
