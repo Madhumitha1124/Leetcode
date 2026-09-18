@@ -383,6 +383,7 @@ leetcodeanswer
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madhumitha1124/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1496-path-crossing](https://github.com/Madhumitha1124/Leetcode/tree/main/1496-path-crossing/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Madhumitha1124/Leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Madhumitha1124/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -428,6 +429,7 @@ leetcodeanswer
 | [0877-stone-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Madhumitha1124/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Madhumitha1124/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+| [1668-maximum-repeating-substring](https://github.com/Madhumitha1124/Leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Bit Manipulation
@@ -735,6 +737,7 @@ leetcodeanswer
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhumitha1124/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Madhumitha1124/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/Madhumitha1124/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Madhumitha1124/Leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Madhumitha1124/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
