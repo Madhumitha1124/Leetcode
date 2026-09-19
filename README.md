@@ -127,6 +127,7 @@ leetcodeanswer
 | [1470-shuffle-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Madhumitha1124/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Madhumitha1124/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Madhumitha1124/Leetcode/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Madhumitha1124/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Madhumitha1124/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -463,6 +464,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Madhumitha1124/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Madhumitha1124/Leetcode/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
