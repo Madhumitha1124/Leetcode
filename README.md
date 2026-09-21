@@ -163,6 +163,7 @@ leetcodeanswer
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Madhumitha1124/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Madhumitha1124/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -329,6 +330,7 @@ leetcodeanswer
 | [3099-harshad-number](https://github.com/Madhumitha1124/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Madhumitha1124/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -436,6 +438,7 @@ leetcodeanswer
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Madhumitha1124/Leetcode/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/Madhumitha1124/Leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
