@@ -1,14 +1,17 @@
 class Solution {
     public int removePalindromeSub(String s) {
-        int count=0;
-        String ans="";
-        String a=s;
-        for(int i=s.length()-1;i>=0;i--){
-               ans+=s.charAt(i);
+       if(s.length()==0){
+        return 0;
+       }
+       int left=0;
+       int right=s.length()-1;
+       while(left<right){
+        if(s.charAt(left)!=s.charAt(right)){
+            return 2;
         }
-        if(ans.equals(a)){
-          return 1;
-        }
-        return 2;
+        left++;
+        right--;
+       }
+       return 1;
     }
 }
