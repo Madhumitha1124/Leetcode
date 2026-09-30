@@ -335,6 +335,7 @@ leetcodeanswer
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Madhumitha1124/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3024-type-of-triangle](https://github.com/Madhumitha1124/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/Madhumitha1124/Leetcode/tree/main/3099-harshad-number/) | Easy |
