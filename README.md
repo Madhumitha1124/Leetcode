@@ -427,6 +427,7 @@ leetcodeanswer
 | [3498-reverse-degree-of-a-string](https://github.com/Madhumitha1124/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3856-trim-trailing-vowels](https://github.com/Madhumitha1124/Leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Madhumitha1124/Leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,6 +548,7 @@ leetcodeanswer
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Madhumitha1124/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Madhumitha1124/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3884-first-matching-character-from-both-ends](https://github.com/Madhumitha1124/Leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
