@@ -856,4 +856,5 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
