@@ -412,6 +412,7 @@ leetcodeanswer
 | [1768-merge-strings-alternately](https://github.com/Madhumitha1124/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Madhumitha1124/Leetcode/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/Madhumitha1124/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
+| [1844-replace-all-digits-with-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Madhumitha1124/Leetcode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Madhumitha1124/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
