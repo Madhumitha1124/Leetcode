@@ -311,6 +311,7 @@ leetcodeanswer
 | [2553-separate-the-digits-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Madhumitha1124/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Madhumitha1124/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/Madhumitha1124/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,6 +432,7 @@ leetcodeanswer
 | [3120-count-the-number-of-special-characters-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Madhumitha1124/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3813-vowel-consonant-score](https://github.com/Madhumitha1124/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/Madhumitha1124/Leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Madhumitha1124/Leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/Madhumitha1124/Leetcode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
