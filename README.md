@@ -350,6 +350,7 @@ leetcodeanswer
 | [3345-smallest-divisible-digit-product-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Madhumitha1124/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Madhumitha1124/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Madhumitha1124/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -683,6 +684,7 @@ leetcodeanswer
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhumitha1124/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Madhumitha1124/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Madhumitha1124/Leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Madhumitha1124/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
