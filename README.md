@@ -442,6 +442,7 @@ leetcodeanswer
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Madhumitha1124/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/Madhumitha1124/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/Madhumitha1124/Leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Madhumitha1124/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/Madhumitha1124/Leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/Madhumitha1124/Leetcode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Dynamic Programming
