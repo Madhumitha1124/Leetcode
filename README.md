@@ -117,6 +117,7 @@ leetcodeanswer
 | [1032-stream-of-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [1046-last-stone-weight](https://github.com/Madhumitha1124/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Madhumitha1124/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Madhumitha1124/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Madhumitha1124/Leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madhumitha1124/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -338,6 +339,7 @@ leetcodeanswer
 | [0877-stone-game](https://github.com/Madhumitha1124/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/Madhumitha1124/Leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [1154-day-of-the-year](https://github.com/Madhumitha1124/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Madhumitha1124/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madhumitha1124/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
@@ -831,6 +833,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0391-perfect-rectangle](https://github.com/Madhumitha1124/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0836-rectangle-overlap](https://github.com/Madhumitha1124/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Madhumitha1124/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
