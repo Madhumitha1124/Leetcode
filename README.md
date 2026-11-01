@@ -791,6 +791,7 @@ leetcodeanswer
 | [1407-top-travellers](https://github.com/Madhumitha1124/Leetcode/tree/main/1407-top-travellers/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Madhumitha1124/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Madhumitha1124/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
+| [1729-find-followers-count](https://github.com/Madhumitha1124/Leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Madhumitha1124/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Madhumitha1124/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Segment Tree
