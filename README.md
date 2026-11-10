@@ -416,6 +416,7 @@ leetcodeanswer
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madhumitha1124/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1496-path-crossing](https://github.com/Madhumitha1124/Leetcode/tree/main/1496-path-crossing/) | Easy |
+| [1592-rearrange-spaces-between-words](https://github.com/Madhumitha1124/Leetcode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Madhumitha1124/Leetcode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Madhumitha1124/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
