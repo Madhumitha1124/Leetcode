@@ -181,6 +181,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Madhumitha1124/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Madhumitha1124/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0037-sudoku-solver](https://github.com/Madhumitha1124/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Madhumitha1124/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Madhumitha1124/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
@@ -321,6 +322,7 @@ leetcodeanswer
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Madhumitha1124/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/Madhumitha1124/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Madhumitha1124/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Madhumitha1124/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -378,6 +380,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhumitha1124/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Madhumitha1124/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0012-integer-to-roman](https://github.com/Madhumitha1124/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Madhumitha1124/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Madhumitha1124/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
