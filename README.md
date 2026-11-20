@@ -306,6 +306,7 @@ leetcodeanswer
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0258-add-digits](https://github.com/Madhumitha1124/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Madhumitha1124/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Madhumitha1124/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Madhumitha1124/Leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -330,6 +331,7 @@ leetcodeanswer
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madhumitha1124/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Madhumitha1124/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Madhumitha1124/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/Madhumitha1124/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Madhumitha1124/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Madhumitha1124/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Madhumitha1124/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -662,6 +664,7 @@ leetcodeanswer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Madhumitha1124/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/Madhumitha1124/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [1994-the-number-of-good-subsets](https://github.com/Madhumitha1124/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2614-prime-in-diagonal](https://github.com/Madhumitha1124/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Sliding Window
