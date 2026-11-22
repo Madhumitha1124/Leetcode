@@ -444,6 +444,7 @@ leetcodeanswer
 | [2053-kth-distinct-string-in-an-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Madhumitha1124/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Madhumitha1124/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Madhumitha1124/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Madhumitha1124/Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Madhumitha1124/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Madhumitha1124/Leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
